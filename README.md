@@ -8,7 +8,7 @@
 
 ## 2. Deskripsi Proyek
 
-CineArchive adalah aplikasi katalog berbasis web sederhana menggunakan PHP Native tanpa database. Aplikasi ini digunakan untuk mencatat dan mengelola daftar koleksi film pribadi, status penontonan, serta menampilkan statistik ringkasan rating koleksi.
+CineArchive adalah aplikasi katalog berbasis web sederhana menggunakan PHP Native tanpa database. WEB ini digunakan untuk mencatat dan mengelola daftar koleksi film pribadi, status penontonan, serta menampilkan statistik ringkasan rating koleksi.
 
 ## 3. Cara Menjalankan di Localhost
 
