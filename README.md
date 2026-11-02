@@ -3,7 +3,7 @@
 ## 1. Identitas
 - **Nama:** Wildan Maulana
 - **NIM:** 025A00200016
-- **Kelas:** S1 Informatika A2-3A
+- **Kelas:** S1 Informatika A2-3B
 
 ## 2. Deskripsi Proyek
 CineArchive adalah aplikasi katalog berbasis web sederhana menggunakan PHP Native tanpa database. Aplikasi ini digunakan untuk mencatat dan mengelola daftar koleksi film pribadi, status penontonan, serta menampilkan statistik ringkasan rating koleksi secara dinamis.
